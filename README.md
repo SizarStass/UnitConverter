@@ -1,8 +1,8 @@
 # UnitConverter
-##Scrimba Solo project
+## Scrimba Solo project
 This is a simple unit conversion tool that allows you to convert various units between meters, feet, liters, gallons, kilograms, and pounds.
 
-##Supported Conversions
+## Supported Conversions
 The unit conversion tool currently supports the following conversions:
 
 Meters to Feet
